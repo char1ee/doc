@@ -30,6 +30,6 @@
 - 翻页 .mf-paging
   - 文章列表 .mf-list
   - loading .mf-loading
- - 全站主导航 .mf-mainnav
- - 通用页脚 .mf-footer
- - 弹出框 .mf-dialog
+  - 全站主导航 .mf-mainnav
+  - 通用页脚 .mf-footer
+  - 弹出框 .mf-dialog
