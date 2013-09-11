@@ -1,7 +1,9 @@
 全站css设计
 ================================
 
-## 全局ui 初始化(reset)
+## 全局ui
+- 初始化 参见 https://github.com/sofish/typo.css/blob/master/typo.css
+
 - 超链接
 
 ## 布局
